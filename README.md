@@ -35,8 +35,7 @@
 
 
 
-```
- { 
+```сss #monkindey { 
   position: Krasnodar; 
   height: 152cm; 
   sex: girl; 
