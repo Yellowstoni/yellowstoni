@@ -1,5 +1,5 @@
 <div align="center" <h1><p style="color:white;"> Hiii))</h1>
-<h1><p style="text-align: center;">Hiii)))</p></h1>
+
 <img src="https://cdn.7tv.app/emote/64f29d27101067d313dd40b2/2x.webp"> <!-- кот с газом -->
 <img src="https://cdn.7tv.app/emote/653ed2c9e14850294e7d3f4f/2x.webp"> <!-- кот boom -->        
 <img src="https://cdn.7tv.app/emote/64cba95f921be539421404c5/2x.webp"> <!-- кот starege -->
