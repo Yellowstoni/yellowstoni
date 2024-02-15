@@ -19,7 +19,7 @@
     <a href="https://www.youtube.com/channel/UC37OiwG6d4LEpaGg3z_sP5w">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
-    <a href="https://vk.com/yellowstony">
+    <a href="https://t.me/yellowstony"> 
   <img src="https://img.shields.io/badge/Tg-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Tg Badge"/>
 </a>
     <a href="discordapp.com/users/yellowstony">
