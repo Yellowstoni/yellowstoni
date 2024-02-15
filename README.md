@@ -9,7 +9,16 @@
 <img src="https://cdn.7tv.app/emote/639ae69c6364fad576b0ea0d/2x.webp"> <!-- кот с чипсами -->
 <img src="https://cdn.7tv.app/emote/63a757b8b458656cc71d2865/2x.webp"> <!-- кот черный -->
 <div id="badges" >
-    <a href="https://vk.com/yellowstony">
+    
+</div>
+</div>
+
+<h1><p style="color: #FFEFD5;"> About me:</h1>
+<div align="right">
+</div>
+<div align="center">
+  <h3 align="center"> Yellow | stony</h3>
+<a href="https://vk.com/yellowstony">
   <img src="https://img.shields.io/badge/Vk-gray?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
 </a>
     <a href="https://www.youtube.com/channel/UC37OiwG6d4LEpaGg3z_sP5w">
@@ -21,11 +30,14 @@
     <a href="discordapp.com/users/yellowstony">
 <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Tg Badge"/>
 </a>
-</div>
-</div>
-
-<h1><p style="color: #FFEFD5;"> About me:</h1>
-
+  <p align="center">
+    <samp>
+      <a href="">Blog</a> ∙
+      <a href="https://steamcommunity.com/id/">Steam</a> 
+    </samp>
+  </p>
+  <p align="left">
+  
 
 
 
