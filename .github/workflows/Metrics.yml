@@ -24,7 +24,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ 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 }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: yellowstony
