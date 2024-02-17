@@ -15,7 +15,7 @@
 <div> 
 <h1><p style="color: #FFEFD5;"> About me:</h1>
 
-![Metrics](/github-metrics.svg) <!--metrics -->
+![Metrics](/github-metrics.svg) 
 
 </div>
 
