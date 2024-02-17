@@ -15,11 +15,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           read: project
-            template: markdown
-            filename: metrics.markdown.md
-            markdown: >-
-              https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
-            config_output: markdown
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
