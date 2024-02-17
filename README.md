@@ -89,11 +89,14 @@
 
 # Skills <img src='https://cdn.7tv.app/emote/60ba887e7dc7b5a406f12416/2x.webp' width="40"> 
 </div>
+
 <div align="center" <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <div <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <div <img src="https://img.shields.io/badge/PostgreSQL%20-%235f9ea0?style=for-the-badge&logo=PostgreSQL&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/DBeaver-%236F3B20?style=for-the-badge&logo=DBeaver"/>
 <div <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+</div>
+
 <div align="left">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Photoshop%20-%234682B4?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=%23FFFAFA&labelColor=%234682B4"> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> 
