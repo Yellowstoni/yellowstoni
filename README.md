@@ -12,7 +12,7 @@
 <h1><p style="color: #FFEFD5;"> About me:</h1>
 
 </div>
-<div <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
 
 
 <div align="right">
@@ -81,11 +81,12 @@
 ░░█░░░░█▀▀▀█░█▀▀█░█▀▀▄░▀█▀░█▄░░█░█▀▀█░░
 ░░█░░░░█░░░█░█▄▄█░█░░█░░█░░█░█░█░█░▄▄░░
 ░░█▄▄█░█▄▄▄█░█░░█░█▄▄▀░▄█▄░█░░▀█░█▄▄█░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-                                          
-}
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░                                      
 ```
 <div align="center">
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
 
 # Skills <img src='https://cdn.7tv.app/emote/60ba887e7dc7b5a406f12416/2x.webp' width="40"> 
 
