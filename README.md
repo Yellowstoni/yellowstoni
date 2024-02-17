@@ -25,17 +25,20 @@
 <div id="links" align="center"> <!-- links -->
   
 <a href="https://vk.com/yellowstony">
-  <img src="https://img.shields.io/badge/Vk-gray?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/Vk-%234682B4?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
 </a>
     <a href="https://www.youtube.com/channel/UC37OiwG6d4LEpaGg3z_sP5w">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-C92A39?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 </a>
     <a href="https://t.me/yellowstony"> 
   <img src="https://img.shields.io/badge/Tg-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Tg Badge"/>
 </a>
     <a href="discordapp.com/users/yellowstony">
-<img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Tg Badge"/>
+<img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Disc Badge"/>
 </a>
+
+<a href=https://steamcommunity.com/profiles/76561198009429565/>
+<img src="https://img.shields.io/badge/Steam-grey?style=for-the-badge&logo=Steam&logoColor=white" alt="Steam Badge"/>
 
 </div>
 
