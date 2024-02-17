@@ -12,7 +12,7 @@
 <h1><p style="color: #FFEFD5;"> About me:</h1>
 
 </div>
-
+<div <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 
 <div align="right">
@@ -103,6 +103,7 @@
 <img <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20-%239999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
 
 </div>
+
 </div>
 
 
