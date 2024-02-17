@@ -1,3 +1,4 @@
+<!-- gifs -->
 <div align="center" 
 <h1><p style="text-align: center;">Hiii)))</p></h1>
 <img src="https://cdn.7tv.app/emote/64f29d27101067d313dd40b2/2x.webp"> <!-- кот с газом -->
@@ -8,15 +9,17 @@
 <img src="https://cdn.7tv.app/emote/649e2f6072b688a740663715/2x.webp"> <!-- желтый кот -->
 <img src="https://cdn.7tv.app/emote/639ae69c6364fad576b0ea0d/2x.webp"> <!-- кот с чипсами -->
 <img src="https://cdn.7tv.app/emote/63a757b8b458656cc71d2865/2x.webp"> <!-- кот черный -->
-<div id="badges" >
-    
-</div>
+
 </div>
 
+<div> 
 <h1><p style="color: #FFEFD5;"> About me:</h1>
-<div align="right">
+
+![Metrics](/github-metrics.svg) <!--metrics -->
+
 </div>
-<div align="center">
+
+<div id="links" align="center"> <!-- links -->
   
 <a href="https://vk.com/yellowstony">
   <img src="https://img.shields.io/badge/Vk-gray?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,8 +34,9 @@
 <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=Discord&logoColor=white" alt="Tg Badge"/>
 </a>
 
-
 </div>
+
+<div>
 
 
 ```
@@ -46,7 +50,8 @@
     "lang": {
         "FR": "A1",
         "ENG": "B1",
-        "RU": "Native" },
+        "RU": "Native" 
+        },
     
    {
    {
