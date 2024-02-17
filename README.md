@@ -9,14 +9,17 @@
 <img src="https://cdn.7tv.app/emote/649e2f6072b688a740663715/2x.webp"> <!-- желтый кот -->
 <img src="https://cdn.7tv.app/emote/639ae69c6364fad576b0ea0d/2x.webp"> <!-- кот с чипсами -->
 <img src="https://cdn.7tv.app/emote/63a757b8b458656cc71d2865/2x.webp"> <!-- кот черный -->
-
-</div>
-
-<div> 
 <h1><p style="color: #FFEFD5;"> About me:</h1>
 
-![Metrics](/github-metrics.svg) 
+</div>
+</div>
 
+
+<div align="right">
+
+  <img align='right' src='github-metrics.svg' width='500px'>
+  
+</div>
 </div>
 
 <div id="links" align="center"> <!-- links -->
